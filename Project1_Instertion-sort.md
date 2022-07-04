@@ -7,7 +7,7 @@
 
 ## Question 2 
 
--O(n^2)
+- O(n^2)
 
 ## Question 3
 
