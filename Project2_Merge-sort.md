@@ -9,3 +9,5 @@
 - Final Stage `[8,11,12,16,21,22]`
 ## Big-O Notation
 - O(nlogn)
+
+[Patika Dev Link](https://app.patika.dev/halbayrak32)	
